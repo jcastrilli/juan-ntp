@@ -1,5 +1,5 @@
 {
-  "name": "juan-ntp",
+  "name": "ntp",
   "version": "0.1.0",
   "author": "juan",
   "summary": "Manages NTP on Linux machines.",
